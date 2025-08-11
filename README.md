@@ -1,3 +1,4 @@
+![Olá, eu sou Rafaela](rafaela.png.png)
 ## Hi there 👋
 
 <!--
